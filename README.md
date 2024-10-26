@@ -1,10 +1,12 @@
-## Hi there 👋
+# Hey There! 👋
+**I'm Aura**, an Engineering Student learning how to code and how to use git! I'm interested in nerd culture and improving myself and my skills day by day.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm obsessed with JRPGs
+- 
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,eclipse,godot,vscode,linux,windows,redhat)](https://skillicons.dev)
+
 
 <!--
-**moonberryaura/moonberryaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
