@@ -3,7 +3,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm obsessed with JRPGs
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,eclipse,godot,vscode,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,eclipse,godot,vscode,windows,linux)](https://skillicons.dev)
 
 
 <!--
