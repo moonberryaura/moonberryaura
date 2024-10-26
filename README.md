@@ -2,7 +2,7 @@
 **I'm Aura**, an Engineering Student learning how to code and how to use git! I'm interested in nerd culture and improving myself and my skills day by day.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm obsessed with JRPGs
-- 
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,eclipse,godot,vscode,linux,windows,redhat)](https://skillicons.dev)
 
 
